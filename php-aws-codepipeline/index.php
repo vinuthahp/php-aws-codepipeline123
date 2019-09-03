@@ -1,0 +1,3 @@
+<?php
+date(format,[timestamp]);
+?>
